@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/friday-practice-react-phonebook-hooks/static/css/main.ef3a59e3.chunk.css",
+    "main.js": "/friday-practice-react-phonebook-hooks/static/js/main.18aad909.chunk.js",
+    "main.js.map": "/friday-practice-react-phonebook-hooks/static/js/main.18aad909.chunk.js.map",
+    "runtime-main.js": "/friday-practice-react-phonebook-hooks/static/js/runtime-main.62c27b01.js",
+    "runtime-main.js.map": "/friday-practice-react-phonebook-hooks/static/js/runtime-main.62c27b01.js.map",
+    "static/css/2.7ee3aee3.chunk.css": "/friday-practice-react-phonebook-hooks/static/css/2.7ee3aee3.chunk.css",
+    "static/js/2.a5b21c6c.chunk.js": "/friday-practice-react-phonebook-hooks/static/js/2.a5b21c6c.chunk.js",
+    "static/js/2.a5b21c6c.chunk.js.map": "/friday-practice-react-phonebook-hooks/static/js/2.a5b21c6c.chunk.js.map",
+    "index.html": "/friday-practice-react-phonebook-hooks/index.html",
+    "static/css/2.7ee3aee3.chunk.css.map": "/friday-practice-react-phonebook-hooks/static/css/2.7ee3aee3.chunk.css.map",
+    "static/css/main.ef3a59e3.chunk.css.map": "/friday-practice-react-phonebook-hooks/static/css/main.ef3a59e3.chunk.css.map",
+    "static/js/2.a5b21c6c.chunk.js.LICENSE.txt": "/friday-practice-react-phonebook-hooks/static/js/2.a5b21c6c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/friday-practice-react-phonebook-hooks/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62c27b01.js",
+    "static/css/2.7ee3aee3.chunk.css",
+    "static/js/2.a5b21c6c.chunk.js",
+    "static/css/main.ef3a59e3.chunk.css",
+    "static/js/main.18aad909.chunk.js"
+  ]
+}

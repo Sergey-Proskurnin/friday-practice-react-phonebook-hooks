@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,KACE,kBACF,CAEA,GACE,cAAe,CACf,eACF","file":"main.ef3a59e3.chunk.css","sourcesContent":["body {\n  font-family: Roboto;\n}\n\nul {\n  padding-left: 0;\n  list-style: none;\n}\n"]}
